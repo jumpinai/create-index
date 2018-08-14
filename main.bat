@@ -15,7 +15,7 @@ echo.
 
 ::create HTML file path
 set sev=%~dp0
-set file=Dir_index.html
+set file=dir_index.html
 set HTML="%sev%%file%"
 
 ::write html file
