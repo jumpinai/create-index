@@ -34,7 +34,7 @@ echo ^</html^>>>%HTML%
 echo.
 
 ::print result
-echo The index has been created successfully！The total number of files is %sum%!
+echo The index has been created successfully! The total number of files is %sum%!
 echo.
 echo The index HTML file path is: %HTML%
 echo.
