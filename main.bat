@@ -5,7 +5,7 @@ cls
 echo Author: jungle
 echo Date: 2018-08-13
 echo Version: 1.0
-echo Description: All files in any directory (including files in subdirectories) can be written to the html file to generate a directory index, which is convenient for finding and browsing files.
+echo Description: All files in any directory (including files in subdirectories) can be written to the html file to create a index, which is convenient for finding and browsing files.
 echo.
 
 ::get current dir
