@@ -5,7 +5,7 @@ cls
 echo Author: jungle
 echo Date: 2018-08-13
 echo Version: 1.0
-echo Description: All files in any directory (including files in subdirectories) can be written to the html file to create a index, which is convenient for finding and browsing files.
+echo Description: Get all files in any directory (including files in subdirectories), create directory indexes, and write HTML files for easy searching and browsing.
 echo.
 
 ::get current dir
@@ -19,7 +19,7 @@ set file=dir_index.html
 set HTML="%sev%%file%"
 
 ::write html file
-echo [Tips]: When there are too many files in the directory, the time to generate the directory index will be longer, please be patient, don't close the program running window! ! !
+echo [Tips]: When there are too many files in the directory, the time to create the directory index will be longer, please be patient, don't close the program running window! ! !
 echo.
 echo Creating index
 
