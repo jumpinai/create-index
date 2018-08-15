@@ -1,5 +1,5 @@
 # create-index
-All files in any directory (including files in subdirectories) can be written to the html file to generate a directory index, which is convenient for finding and browsing files.
+Get all files in any directory (including files in subdirectories), create directory indexes, and write HTML files for easy searching and browsing.
 
 Usage:
 1. Copy the file (main.bat) to any directory
